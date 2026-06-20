@@ -1,4 +1,4 @@
-# 🌅 OpenNagi
+# OpenNagi
 
 > Calm the storm. Bundle AI-to-human notifications and deliver them on the receiver's terms.
 
