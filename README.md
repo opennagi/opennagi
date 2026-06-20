@@ -8,8 +8,6 @@ OpenNagi sits between the flood of AI-generated notifications and a human's fini
 
 The name joins **open** (an open intake for any AI, any notification) and **nagi** (凪, the calm after wind and waves settle). This repo is the hub — the code lives in the repositories below.
 
-Status: concept and MVP design. The first feature is the digest (bundle and deliver on a schedule), starting with RSS as the "first agent."
-
 ## Repositories
 
 | Repo | Visibility | Role |
